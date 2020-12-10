@@ -1,0 +1,17 @@
+*{margin: 0;padding: 0;}
+/* 内容背景颜色 */
+html body {
+	background-color: #fff;
+}
+/* 底部选中颜色 */
+.mui-bar-tab .mui-tab-item.mui-active {
+	color: #EF6330 !important;
+}
+.mui-bar-tab .mui-tab-item .mui-icon{
+	width: auto;
+	margin-bottom: 3px;
+}
+/* 底部颜色 */
+.mui-bar {
+	background-color: #fff;
+}
